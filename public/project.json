@@ -1,0 +1,71 @@
+{
+  "title": {
+    "en": "project name",
+    "th": "project name"
+  },
+  "descriptions": {
+    "en": "project name",
+    "th": "project name"
+  },
+  "contents": {
+    "home": "home",
+    "projectinfo": "project-info",
+    "gallery": {
+      "interior": [
+        {
+          "label": "",
+          "medias": [
+            "in1",
+            "in2",
+            "in3"
+          ]
+        },
+        {
+          "label": "",
+          "medias": [
+            "in1",
+            "in2",
+            "in3"
+          ]
+        },
+        {
+          "label": "",
+          "medias": [
+            "in1",
+            "in2",
+            "in3"
+          ]
+        }
+      ],
+      "exterior": [
+        {
+          "label": "",
+          "medias": [
+            "ex1",
+            "ex2",
+            "ex3"
+          ]
+        },
+        {
+          "label": "",
+          "medias": [
+            "ex1",
+            "ex2",
+            "ex3"
+          ]
+        },
+        {
+          "label": "",
+          "medias": [
+            "ex1",
+            "ex2",
+            "ex3"
+          ]
+        }
+      ]
+    },
+    "location": "location",
+    "floorplan": "",
+    "roomtype": ""
+  }
+}

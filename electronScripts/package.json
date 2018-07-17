@@ -1,0 +1,13 @@
+{
+  "name": "app-electron",
+  "icon": "./public/icon.ico",
+  "version": "1.0.0",
+  "description": "react electron",
+  "repository": {
+    "url": "https://github.com/forvizthailand",
+    "type": "git"
+  },
+  "author": "Forviz",
+  "license": "MIT",
+  "main": "electronScripts/main.js"
+}

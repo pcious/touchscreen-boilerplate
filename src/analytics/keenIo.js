@@ -1,0 +1,11 @@
+// Configure a client instance
+import KeenTracking from 'keen-tracking';
+
+// This is your actual Project ID and Write Key
+const client = new KeenTracking({
+  projectId: '5a98e247c9e77c00018ed3e2',
+  writeKey:
+    'FF369EADE8F00705302344A646E33BDF8C00822A9DA51B19D5E4442A6E58E2D1BFF61B77EB70A2E66F8F4AF717987623C393FEA8992A7A1395B339C4C95ECC99E06E8277DEDBFF14D49067C7A537A0162CF42A339DF2ED620B4CE5B5FF5F3B99'
+});
+
+export default client;
