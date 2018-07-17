@@ -1,28 +1,32 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
+# Touchscreen Boilerplate #
 
 * Starter boilerplate for touchscreen directory
 * 0.1
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Install ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+```
+npm install
+or
+yarn
+```
 
-### Contribution guidelines ###
+### Start Project ###
 
-* Writing tests
-* Code review
-* Other guidelines
+```
+npm run start
+or
+yarn start
+```
+
+### Storybook ###
+
+```
+npm run storybook
+or
+yarn storybook
+```
 
 ### Who do I talk to? ###
 
-* Forviz Team
+* Pcious
